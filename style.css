@@ -47,11 +47,11 @@ h3{
 
 .content {
     background-color: rgb(74, 59, 69);
-    min-height: 590vh;
+    min-height: 270vh;
     width: 250%;
     margin: 0 auto;
     width: 900px;
-    height: 100px;
+    height: 80px;
     padding: 10px;
     border: 20px rgb(63, 47, 63) solid;
     box-shadow: 2px 2px 8px black;
